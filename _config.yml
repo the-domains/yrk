@@ -1,14 +1,19 @@
-layout_spectrum: 0.8816790126729757
 typography_spectrum: 0.6925927549600601
+content_rating:
+  adult: false
 color:
   brandStrength: 0.4811718233395368
   lightness: 0.6974454505834728
   saturation: 0.8578725571278483
   rhythmicContrast: 0.48663750081323087
   brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b5da5b0-f4ba-44c3-8fea-9a7fd0857699.png
+layout_spectrum: 0.8816790126729757
 name: YRK
